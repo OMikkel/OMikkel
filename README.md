@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/pxJMmLI.png" alt="Profile banner" height="500" width="1000"></p>
 
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h1>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
