@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/mMwNdDe.png" alt="Profile banner" height="500" width="1000" style="border-radius:10px;"></p>
+<p align="center"><img src="https://i.imgur.com/mMwNdDe.png" alt="Profile banner" height="500" width="1000" style="max-width:100%; border-radius:10px;"></p>
 
 <h2 align="center">About me</h2>
 
