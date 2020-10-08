@@ -1,6 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/pxJMmLI.png" alt="Profile banner" height="500" width="1000"></p>
 
 <h1 align="center">About me</h1>
+<br>
+<h3 align="center">Languages i use</h3>
 
 <p align="center">
   <a href="https://dev.to/anhello">
