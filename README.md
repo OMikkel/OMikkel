@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/pxJMmLI.png" alt="Profile banner" height="360" width="720"></p>
+<p align="center"><img src="https://i.imgur.com/pxJMmLI.png" alt="Profile banner" height="400" width="800"></p>
 
 <h1 align="center">About me</h1>
 <h2 align="center">Reach me at:</h2>
