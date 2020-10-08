@@ -24,10 +24,10 @@
 <h2 align="center">Languages i use:</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/n7aVKlf.png" alt="Lua" />
-  <img src="https://i.imgur.com/UTILags.png" alt="HTML5" />
-  <img src="https://i.imgur.com/PLfwvAi.png" alt="Javascript" />
-  <img src="https://i.imgur.com/pkps8Sw.png" alt="CSS" />
+  <img src="https://i.imgur.com/n7aVKlf.png" alt="Lua" height="50" width="50"/>
+  <img src="https://i.imgur.com/UTILags.png" alt="HTML5" height="50" width="50"/>
+  <img src="https://i.imgur.com/PLfwvAi.png" alt="Javascript" height="50" width="50"/>
+  <img src="https://i.imgur.com/pkps8Sw.png" alt="CSS" height="50" width="50"/>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
