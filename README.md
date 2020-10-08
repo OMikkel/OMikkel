@@ -42,6 +42,6 @@
 
 <h3 align="center">Profile stats</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OMikkel&show_icons=true&theme=synthwave" alt="OMikkel :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OMikkel&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats%20-%20OMikkel" alt="OMikkel :: Profile Stats" /></p>
 
 
