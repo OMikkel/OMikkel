@@ -2,7 +2,7 @@
 
 <h1 align="center">About me</h1>
 <br>
-<h2 align="center">Languages i use</h2>
+<h2 align="center">Reach me at</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
