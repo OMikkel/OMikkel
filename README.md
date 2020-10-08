@@ -36,13 +36,8 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{OMikkel}/count.svg" alt="OMikkel :: Visitor's Count" /></p>
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMikkel&langs_count=10&theme=algolia&layout=compact" alt="OMikkel :: Top Langs" /></p>
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OMikkel&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats%20-%20OMikkel" alt="OMikkel :: Profile Stats" /></p>
-<h3 align="center">Profile stats</h3>
-<h3 align="center">Top langs</h3>
+
 
