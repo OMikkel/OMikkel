@@ -4,7 +4,7 @@
 <h2 align="center">Reach me at:</h2>
 
 <p align="center">
-  <a href="https://omikkel.github.io/anhello">
+  <a href="https://omikkel.github.io/OMikkel">
     <img src="https://i.imgur.com/ZNaHGwg.png" alt="OMikkel Website" height="50" width="50">
   </a>
 
