@@ -1,4 +1,4 @@
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="600" width="1000"></p>
+<p align="center"><img src="https://i.imgur.com/mMwNdDe.png" alt="Profile banner" height="640" width="1280"></p>
 
 <h2 align="center">About me</h2>
 
