@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/pxJMmLI.png" alt="Profile banner" height="500" width="1000"></p>
 
 <h1 align="center">About me</h1>
-<h2 align="center">Reach me at</h2>
+<h2 align="center">Reach me at:</h2>
 
 <p align="center">
   <a href="https://omikkel.github.io/anhello">
@@ -21,13 +21,13 @@
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">Languages i use:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
+  <img src="https://i.imgur.com/n7aVKlf.png" alt="Lua" />
+  <img src="https://i.imgur.com/UTILags.png" alt="HTML5" />
+  <img src="https://i.imgur.com/PLfwvAi.png" alt="Javascript" />
+  <img src="https://i.imgur.com/pkps8Sw.png" alt="CSS" />
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
