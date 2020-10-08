@@ -38,7 +38,7 @@
 
 <h3 align="center">Top langs</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMikkel&langs_count=10&theme=tokyonight&layout=compact" alt="OMikkel :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMikkel&langs_count=10&theme=algolia&layout=compact" alt="OMikkel :: Top Langs" /></p>
 
 <h3 align="center">Profile stats</h3>
 
