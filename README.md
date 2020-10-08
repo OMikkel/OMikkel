@@ -9,8 +9,8 @@
     <img src="https://i.imgur.com/ZNaHGwg.png" alt="OMikkel Website" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.youtube.com/channel/UCmhk9EfLKqRu2IGV7sQKzOg?view_as=subscriber">
+    <img src="https://i.imgur.com/0P9c9Fe.png" alt="OMikkel Youtube" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
