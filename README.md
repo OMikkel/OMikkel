@@ -17,8 +17,8 @@
     <img src="https://i.imgur.com/YWrhwlj.png" alt="OMikkel Discord" height="30" width="30">
   </a>
 
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  <a href="https://twitter.com/OMikkelDK">
+    <img src="https://i.imgur.com/RnGwb2s.png" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a>
 
   <a href="https://stackshare.io/anhello">
