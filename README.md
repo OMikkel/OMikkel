@@ -13,8 +13,8 @@
     <img src="https://i.imgur.com/0P9c9Fe.png" alt="OMikkel Youtube" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  <a href="https://discord.gg/RHCHFA3">
+    <img src="https://i.imgur.com/YWrhwlj.png" alt="OMikkel Discord" height="30" width="30">
   </a>
 
   <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
