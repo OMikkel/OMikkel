@@ -1,7 +1,18 @@
 -- Verified servers
 {
   "servers": {
-    "1": "136.243.226.91"
+    "1": {
+      "name": "NightLifeRP",
+      "ip": ""
+    },
+    "2": {
+      "name": "Sociality Network",
+      "ip": ""
+    },
+    "3": {
+      "name": "OMikkel Dev Server",
+      "ip": "136.243.226.91"
+    },
   },
   "count": 1
 }
