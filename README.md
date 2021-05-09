@@ -4,15 +4,15 @@
 <h2 align="center">Reach me at:</h2>
 
 <p align="center">
-  <a href="https://omikkel.github.io/OMikkel">
+  <a href="https://omikkel.com/">
     <img src="https://i.imgur.com/ZNaHGwg.png" alt="OMikkel Website" height="50" width="50">
   </a>
 
-  <a href="https://www.youtube.com/channel/UCmhk9EfLKqRu2IGV7sQKzOg?view_as=subscriber">
+  <a href="https://omikkel.com/youtube">
     <img src="https://i.imgur.com/0P9c9Fe.png" alt="OMikkel Youtube" height="50" width="50">
   </a>
 
-  <a href="https://discord.gg/RHCHFA3">
+  <a href="https://omikkel.com/discord">
     <img src="https://i.imgur.com/YWrhwlj.png" alt="OMikkel Discord" height="50" width="50">
   </a>
 
