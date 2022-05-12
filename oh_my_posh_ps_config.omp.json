@@ -51,7 +51,7 @@
 			"alignment": "right",
 			"segments": [
 				{
-					"background": "#7af706",
+					"background": "#689f63",
 					"foreground": "#ffffff",
 					"invert_powerline": true,
 					"powerline_symbol": "",
@@ -161,7 +161,7 @@
 				{
 					"background": "#7af706",
 					"background_templates": ["{{ if gt .Code 0 }}#FF0000{{ end }}"],
-					"foreground": "#d3d7cf",
+					"foreground": "#000000",
 					"invert_powerline": true,
 					"powerline_symbol": "",
 					"properties": {
